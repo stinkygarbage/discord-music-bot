@@ -1,2 +1,2 @@
 # Replace with your real bot token
-TOKEN = "MTM1NzgzNjc1NzI5MDMyMDAwMw.GgyamS.YiF0NXThErX5btGqF48XGf5py3TdoD1nW31x6I"
+TOKEN = "MTM1NzgzNjc1NzI5MDMyMDAwMw.G8yOi5.OvP5hoaIed5IbReC3mxBDqv6yE6pSzXTedwjUg"
